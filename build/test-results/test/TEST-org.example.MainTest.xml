@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.MainTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2024-09-25T17:43:25" hostname="MacBook-Pro-3.local" time="0.075">
+  <properties/>
+  <testcase name="balances()" classname="org.example.MainTest" time="0.032"/>
+  <testcase name="circle()" classname="org.example.MainTest" time="0.004"/>
+  <testcase name="cylinder()" classname="org.example.MainTest" time="0.003"/>
+  <testcase name="click()" classname="org.example.MainTest" time="0.003"/>
+  <testcase name="sound()" classname="org.example.MainTest" time="0.005"/>
+  <testcase name="table()" classname="org.example.MainTest" time="0.005"/>
+  <testcase name="separator()" classname="org.example.MainTest" time="0.003"/>
+  <system-out><![CDATA[ding
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
